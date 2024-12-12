@@ -1,0 +1,124 @@
+{
+  "boards": [
+    {
+      "name": "My first board",
+      "user": 1,
+      "starred": false,
+      "created": "2024-11-08",
+      "id": 1
+    },
+    {
+      "name": "My first board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-11-08",
+      "id": 2
+    },
+    {
+      "name": "board 2",
+      "user": 0,
+      "starred": false,
+      "created": "2024-11-08",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "order": 0,
+      "boardId": 1,
+      "listId": 1,
+      "name": "card 1",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "{\n  \"order\": 0,\n  \"boardId\": 1,\n  \"listId\": 1,\n  \"name\": \"card 1\",\n  \"created\": \"2024-11-08\",\n  \"deadline\": \"2024-11-11\",\n  \"description\": \"\",\n  \"completed\": true,\n  \"id\": 1\n}",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "order": 1,
+      "boardId": 1,
+      "listId": 1,
+      "name": "card 2",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "order": 0,
+      "boardId": 3,
+      "listId": 3,
+      "name": "1",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "order": 0,
+      "boardId": 3,
+      "listId": 4,
+      "name": "1",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "order": 1,
+      "boardId": 3,
+      "listId": 4,
+      "name": "2",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "order": 2,
+      "boardId": 3,
+      "listId": 4,
+      "name": "3",
+      "created": "2024-11-08",
+      "deadline": "2024-11-11",
+      "description": "",
+      "completed": false,
+      "id": 6
+    }
+  ],
+  "users": [],
+  "lists": [
+    {
+      "boardId": 1,
+      "name": "list 1",
+      "order": 0,
+      "created": "2024-11-08",
+      "id": 1
+    },
+    {
+      "boardId": 1,
+      "name": "list 2",
+      "order": 1,
+      "created": "2024-11-08",
+      "id": 2
+    },
+    {
+      "boardId": 3,
+      "name": "1",
+      "order": 0,
+      "created": "2024-11-08",
+      "id": 3
+    },
+    {
+      "boardId": 3,
+      "name": "2",
+      "order": 1,
+      "created": "2024-11-08",
+      "id": 4
+    }
+  ]
+}
